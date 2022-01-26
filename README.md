@@ -5,4 +5,4 @@ You can find what each component represents inside the "Components" area.
 
 
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.PNG)
